@@ -22,9 +22,7 @@ APIs: Google Maps API, Travel Data APIs
 
 **🚀 How to Use:**
 
-1.Clone the repository:
-
-git clone https://github.com/your-username/roam-smart.git
+1.Clone the repository
 
 2.Open index(2).html in your browser.
 
